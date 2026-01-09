@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col items-center justify-center gap-8 text-center px-8">
         <h1 className="text-4xl font-light tracking-tight text-black dark:text-zinc-50 sm:text-5xl">
           Sarah J.X. Wang
-        </h1>
+          </h1>
         <p className="text-lg text-zinc-600 dark:text-zinc-400">
           UI/UX Designer & Frontend Developer
         </p>
